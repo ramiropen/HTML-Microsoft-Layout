@@ -1,5 +1,9 @@
 
-
-#animalPics {
-    display: inline-block;   
+body {
+    text-align: center;
 }
+
+span {
+    display: inline-block;
+}
+
